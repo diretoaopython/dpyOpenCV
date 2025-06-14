@@ -3,6 +3,7 @@
 # 3. Importar o módulo cv2 em nosso código Python
 import cv2
 
+
 # 4. Criar um objeto a partir da classe VideoCapture do módulo cv2 (dpyOpenCV)
 objImagem = cv2.VideoCapture(0)
 
